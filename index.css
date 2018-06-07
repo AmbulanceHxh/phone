@@ -1,0 +1,53 @@
+.phone{
+	width: 300px;
+	height: 600px;
+	margin: 20px auto;
+	border: 2px solid #000;
+	border-radius: 45px;
+}
+.top{
+	width: 250px;
+	height: 40px;
+	margin: 20px auto;
+	/*border: 2px solid #000;*/
+	
+}
+.ray{
+	width: 8px;
+	height: 8px;
+	border: 2px solid #000;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.camera{
+	width: 12px;
+	height: 12px;
+	border: 2px solid #000;
+	border-radius: 50%;
+	float: left;
+	margin-top: 5px;
+	margin-left: 60px;
+}
+.tele{
+	width: 60px;
+	height: 8px;
+	border: 2px solid #000;
+	border-radius: 4px;
+	float: left;
+	margin-top: 7px;
+	margin-left: 20px;
+}
+.screen{
+	width: 280px;
+	height: 440px;
+	border: 2px solid #000;
+	background: url("background.jpg");
+	margin:0 auto;
+}
+.home{
+	width: 44px;
+	height: 44px;
+	border: 3px solid #000;
+	border-radius: 50%;
+	margin:10px auto 0;
+}
